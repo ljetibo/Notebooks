@@ -3,6 +3,7 @@ Notebooks
 
 mix of python 3 and ipython notebooks practice and learning codes.
 This is here mostly so I can remember fun bits and pieces of code.
+Notebooks are sort of useful, view them on http://nbviewer.ipython.org/
 
 
 #Index
