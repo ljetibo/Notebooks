@@ -12,7 +12,9 @@ Notebooks are sort of useful, view them on http://nbviewer.ipython.org/
 [idle.bat](##idle.bat)   
 [InspectIt](##InspectIt)   
 [ReadFileLines](##ReadFileLines)   
-[DUMP](##DUMP)   
+[TIDES](##TIDES) 
+[DUMP](##DUMP)
+
 
 
 ##Compress folders
@@ -45,6 +47,9 @@ and implement a source code returning function.
 ##ReadFileLines
 That one time you thought this might come in handy within the ipython notebook inviroment
 but haven't used it since. It's nice because it erases the lines it outputed so there's no clutter.
+
+##TIDES
+NOAA CO-OPS water level data plotting scripts.
 
 ##DUMP
 Mostly ipython notebooks with matplotlib ploting stuff. 
