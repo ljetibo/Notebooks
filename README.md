@@ -12,7 +12,7 @@ Notebooks are sort of useful, view them on http://nbviewer.ipython.org/
 [idle.bat](##idle.bat)   
 [InspectIt](##InspectIt)   
 [ReadFileLines](##ReadFileLines)   
-[TIDES](##TIDES) 
+[TIDES](##TIDES)
 [DUMP](##DUMP)
 
 
