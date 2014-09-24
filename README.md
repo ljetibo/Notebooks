@@ -46,7 +46,7 @@ Foolin' around with inspect module. Create a concise list of all classes, method
 and implement a source code returning function.
 
 ##ReadFileLines
-That one time you thought this might come in handy within the ipython notebook inviroment
+That one time you thought this might come in handy within the ipython notebook enviroment
 but haven't used it since. It's nice because it erases the lines it outputed so there's no clutter.
 
 ##TIDES
