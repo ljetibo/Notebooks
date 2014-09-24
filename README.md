@@ -12,7 +12,8 @@ Notebooks are sort of useful, view them on http://nbviewer.ipython.org/
 [idle.bat](##idle.bat)   
 [InspectIt](##InspectIt)   
 [ReadFileLines](##ReadFileLines)   
-[TIDES](##TIDES)   
+[TIDES](##Tides)   
+[Inline](##Inline plots)   
 [DUMP](##DUMP)   
 
 
@@ -50,6 +51,9 @@ but haven't used it since. It's nice because it erases the lines it outputed so 
 
 ##TIDES
 NOAA CO-OPS water level data plotting scripts. There's a CO-OPS file availible for download, or you can download a new one.
+
+##Inline
+How to plot a "zoomed" in area of a graph on the same graph. Used for Stochastic Simulation report. It's tricky to get a hang of inset_axes funcs. Mpl tuts are fairly sucky at it.
 
 ##DUMP
 Mostly ipython notebooks with matplotlib ploting stuff. 
